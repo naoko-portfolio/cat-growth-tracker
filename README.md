@@ -6,7 +6,7 @@
 5. Save to file
 6. Exit
 
-7. Date: 2026-06-30
+Date: 2026-06-30
 Cat name: Momo
 Weight: 2.8 kg
 Food: Wet food + dry food
